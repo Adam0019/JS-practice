@@ -27,3 +27,4 @@ console.log(Array.from({name: "aniruddha"}));//this will give empty array
 console.log(Array.from("Aniruddha"));
 
 
+

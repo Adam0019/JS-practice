@@ -37,3 +37,4 @@ JsUser.greetingTw = function(){
 console.log(JsUser.greeting());
 console.log(JsUser.greetingTw());
 
+
