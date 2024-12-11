@@ -1,11 +1,13 @@
 // const tinderUser = new Object()
-const tinderUser = {}
+const tinderUser = {
+    age: 80
+}
 
 tinderUser.id = "123abc"
 tinderUser.name = "Sammy"
 tinderUser.isLoggedIn = false
 
-// console.log(tinderUser);
+console.log(tinderUser);
 
 const regularUser = {
     email: "some@gmail.com",
@@ -55,7 +57,7 @@ users[1].email
 // console.log(tinderUser.hasOwnProperty('isLoggedIn'));
 
 
-const course = {
+/*const course = {
     coursename: "js in hindi",
     price: "999",
     courseInstructor: "hitesh"
@@ -66,7 +68,7 @@ const course = {
 const {courseInstructor: instructor} = course
 
 // console.log(courseInstructor);
-console.log(instructor);
+//console.log(instructor);
 
 // {
 //     "name": "hitesh",
@@ -79,4 +81,4 @@ console.log(instructor);
     {},
     {}
 ]
- 
+ */
