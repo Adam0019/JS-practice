@@ -14,7 +14,7 @@ const user ={
 user.username = "ani"
 user.wlcmMsg()*/
 console.log(this);
-
+ 
 // function chai(){
 //     let username = "hitesh"
 //     console.log(this.username);
